@@ -1,0 +1,15 @@
+C:\test>curl -X POST -u "apikey:2OpGZPok24p0UYBhI2BVUvLITWyJr28Oa_KSdqkdhI73" --header "ConTent-type:audio/wav" --data-binary @ko-KR_BroadbandModel_sample1.wav "https://stream.watsonplatform.net/speech-to-text/api/v1/recognize?model=ko-KR_BroadbandModel"
+{
+   "result_index": 0,
+   "results": [
+      {
+         "final": true,
+         "alternatives": [
+            {
+               "transcript": "??紐??숇컯 ??嫄대뜲 ?명뀛 ?붾윮??猷몄? ??李쇰떎怨??섏뀛??洹몃윴???뱀떆 ?깃?猷??먭컻濡??덉빟? 媛?ν븳媛??",
+               "confidence": 0.97
+            }
+         ]
+      }
+   ]
+}
