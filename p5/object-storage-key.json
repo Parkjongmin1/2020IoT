@@ -1,13 +1,13 @@
- {
-  "apikey": "XQWa0w_R88QMmOJuRhikA3OWaDC8fRU5nze2pTo6Pc9C",
+{
+  "apikey": "d6lgzUPWbkrnOjsea9A_00WuUZ7i5INTyB4l2i-QCB0f",
   "cos_hmac_keys": {
-    "access_key_id": "06928b23661a470d9c2ef69f8cf4b17b",
-    "secret_access_key": "c27eafdabe72d171082062e1ede92eb1b353f11731fd536f"
+    "access_key_id": "09d5e510f90a47e8a903c525b272626b",
+    "secret_access_key": "1842e78b554bc66cfa12b47603bf79d0105be6bec5a8172a"
   },
   "endpoints": "https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints",
-  "iam_apikey_description": "Auto-generated for key 06928b23-661a-470d-9c2e-f69f8cf4b17b",
+  "iam_apikey_description": "Auto-generated for key 09d5e510-f90a-47e8-a903-c525b272626b",
   "iam_apikey_name": "서비스 인증 정보-1",
   "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
-  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/b09e3f4f4555450b9a881d4219a1ddd3::serviceid:ServiceId-0fcfe494-e47d-4eea-8cf2-5271f7834015",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/b09e3f4f4555450b9a881d4219a1ddd3::serviceid:ServiceId-2e8e65f3-9a08-4067-b0a1-42a271101be9",
   "resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/b09e3f4f4555450b9a881d4219a1ddd3:0551fcc3-4296-4547-956e-9fae2f47af5a::"
 }
