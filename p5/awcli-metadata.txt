@@ -1,0 +1,9 @@
+\Users\qwq33>aws --profile default --endpoint-url https://s3.us.cloud-object-storage.appdomain.cloud s3api head-object --bucket jongmin1-konyang --key jongmin.jpg
+{
+    "AcceptRanges": "bytes",
+    "LastModified": "2020-11-10T09:14:55+00:00",
+    "ContentLength": 126875,
+    "ETag": "\"d0f9c77989c408a99f5184fcba33741a\"",
+    "ContentType": "image/jpeg",
+    "Metadata": {}
+}
