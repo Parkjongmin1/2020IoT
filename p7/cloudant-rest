@@ -1,0 +1,19 @@
+
+1.
+C:\Users\qwq33>curl -H "Authorization: Bearer eyJraWQiOiIyMDIwMTAyMjE4MzMiLCJhbGciOiJSUzI1NiJ9.eyJpYW1faWQiOiJpYW0tU2VydmljZUlkLTAxYTcxZTg1LWVlNTYtNDg5OS1iMGZmLThhNWRmYjczYjQ5YiIsImlkIjoiaWFtLVNlcnZpY2VJZC0wMWE3MWU4NS1lZTU2LTQ4OTktYjBmZi04YTVkZmI3M2I0OWIiLCJyZWFsbWlkIjoiaWFtIiwianRpIjoiYzNhMGEyZTEtNTVmOS00MTczLTlkZTgtMzBkN2FlYmJjYTE0IiwiaWRlbnRpZmllciI6IlNlcnZpY2VJZC0wMWE3MWU4NS1lZTU2LTQ4OTktYjBmZi04YTVkZmI3M2I0OWIiLCJuYW1lIjoicXVlcnktZGVtby1ndWkiLCJzdWIiOiJTZXJ2aWNlSWQtMDFhNzFlODUtZWU1Ni00ODk5LWIwZmYtOGE1ZGZiNzNiNDliIiwic3ViX3R5cGUiOiJTZXJ2aWNlSWQiLCJhY2NvdW50Ijp7InZhbGlkIjp0cnVlLCJic3MiOiJiMDllM2Y0ZjQ1NTU0NTBiOWE4ODFkNDIxOWExZGRkMyIsImZyb3plbiI6dHJ1ZX0sImlhdCI6MTYwNTY3MzcwMywiZXhwIjoxNjA1Njc3MzAzLCJpc3MiOiJodHRwczovL2lhbS5jbG91ZC5pYm0uY29tL2lkZW50aXR5IiwiZ3JhbnRfdHlwZSI6InVybjppYm06cGFyYW1zOm9hdXRoOmdyYW50LXR5cGU6YXBpa2V5Iiwic2NvcGUiOiJpYm0gb3BlbmlkIiwiY2xpZW50X2lkIjoiZGVmYXVsdCIsImFjciI6MSwiYW1yIjpbInB3ZCJdfQ.NCy05huS_Fh5eBdGsoOMr-QUH7-jo0yr8WXiXJdVtESvrJjisV4J9VU7B3mbNov7II-ZAvIZpY89OLMA52e-dpePBtUgkOAKFzasBGPsH4Mk-UU0LKDPM2qKOuhUkl_PUFOHS_uoYyBqSmeNYERPZ989LX_o2okCHIAzXK7iM3HPCzjjZU4RtxePNDo1bIY9cpTcnDU34a2G2VFTk5Cc2GD0otxvgfnnBO-xBuikVH-Dxj_OwKdAPqQOvnNJk10j94D4Y6C-RMfmuu4eDr_XZQI4sZxTE-tKer0WI3vz6eFnMwCX67H4n-OrRbOH88PEW_BQ9XlaH5pcfw9VNtWKmQ" -X PUT https://614d186b-6e8f-4b4e-a88f-d2a213131fde-bluemix.cloudantnosqldb.appdomain.cloud/products"
+{"ok":true}
+
+2.
+{"error":"bad_request","reason":"invalid UTF-8 JSON"}
+curl: (6) Could not resolve host: _id
+curl: (3) Port number out of range
+curl: (6) Could not resolve host: type
+curl: (6) Could not resolve host: product,
+curl: (6) Could not resolve host: productid
+curl: (6) Could not resolve host: 1000042,
+curl: (6) Could not resolve host: brand
+curl: (6) Could not resolve host: Salter,
+curl: (6) Could not resolve host: name
+curl: (6) Could not resolve host: Digital Kitchen Scales,
+curl: (3) [globbing] unmatched close brace/bracket in column 14
+
